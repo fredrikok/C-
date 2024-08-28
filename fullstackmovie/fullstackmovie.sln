@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fullstackmovie.Server", "fullstackmovie.Server\fullstackmovie.Server.csproj", "{305DEAFF-D210-47FF-8D5E-303097096847}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "fullstackmovie.client", "fullstackmovie.client\fullstackmovie.client.esproj", "{FB0116A5-D472-4131-B6AE-6B85D68D5B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305DEAFF-D210-47FF-8D5E-303097096847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305DEAFF-D210-47FF-8D5E-303097096847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305DEAFF-D210-47FF-8D5E-303097096847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305DEAFF-D210-47FF-8D5E-303097096847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0116A5-D472-4131-B6AE-6B85D68D5B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0116A5-D472-4131-B6AE-6B85D68D5B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0116A5-D472-4131-B6AE-6B85D68D5B1C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB0116A5-D472-4131-B6AE-6B85D68D5B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0116A5-D472-4131-B6AE-6B85D68D5B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0116A5-D472-4131-B6AE-6B85D68D5B1C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF6AB00-9D41-47A7-9A09-7D6EE3A4FB22}
+	EndGlobalSection
+EndGlobal
